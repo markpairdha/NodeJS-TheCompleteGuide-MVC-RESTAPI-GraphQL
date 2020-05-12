@@ -1,3 +1,12 @@
+/* 
+npm init
+npm install --save-dev nodemon
+"start" : "nodemon app.js"
+npm start
+*/
+
+
+
 const express = require('express');
 const app = express();
 const bodyParser = require('body-parser');
